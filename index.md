@@ -3,7 +3,10 @@ layout: page
 title: "汪盈杉"
 ---
 
-<table border="0">
+
+
+
+<table border="0" style="overflow:hidden">
   <tr>
     <td width="25%">
       <img src="/ecf9601156e8b47c43e1676efab0a33.jpg" width="100%">   

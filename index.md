@@ -6,7 +6,7 @@ title: "汪盈杉"
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/ecf9601156e8b47c43e1676efab0a33.jpg" width="100%">      % 插入证件照代码
     </td>
     
     <td width="75%">
